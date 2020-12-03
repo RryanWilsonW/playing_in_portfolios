@@ -1,7 +1,14 @@
-# About the page.
+# About the page. #
 This is a responsive website developed using HTML 5 and CSS3. The main purpose of the website is to give the user information about myself, and a way to contact me.The website utilizes styling from bootstrap for positioning.
 
-# Header.
+# Link to Website #
+https://rryanwilsonw.github.io/playing_in_portfolios/
+
+# Screenshots of website #
+<img src="assets/imgs/aboutmess.png">
+<img src="assets/imgs/potfolioss.png">
+<img src="assets/imgs/contactss.png">
+# Header. #
 The header of each page is the same, giving the website a form of concurrent display. Inside of the header contains a nav with the links that can take you from page to page. 
 
 # About me #
