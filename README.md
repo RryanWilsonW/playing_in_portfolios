@@ -8,6 +8,7 @@ https://rryanwilsonw.github.io/playing_in_portfolios/
 <img src="assets/imgs/aboutmess.png">
 <img src="assets/imgs/potfolioss.png">
 <img src="assets/imgs/contactss.png">
+
 # Header. #
 The header of each page is the same, giving the website a form of concurrent display. Inside of the header contains a nav with the links that can take you from page to page. 
 
