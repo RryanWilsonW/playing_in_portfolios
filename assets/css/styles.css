@@ -4,7 +4,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Visual */
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  background-image: url("../imgs/newbg.jpg");
 }
 
 html {
@@ -22,7 +22,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: white;
+  background-color: #FF9F44;
 
   padding: 30px;
   margin-bottom: 30px;
@@ -30,7 +30,7 @@ main {
 
 .block-header {
   /* Typography */
-  color: #001eff;
+  color: black;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -42,27 +42,36 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: white;
+  color: black;
 
   /* Visual */
-  background: #001eff;
+  background: #FF9F44;
 }
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #001eff;
+  color: #74ADD6;
 }
 
 .navbar {
-  background: white;
+  background: #FF9F44;
   border: none;
 }
 
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #001eff;
+    background-color: #74ADD6;
   }
+}
+
+.two-toned-header-color {
+  /* Box-model */
+  height: 6px;
+  padding-top: 3px;
+
+  /* Visual */
+  background-color: #74ADD6;
 }
 
 /* END NAV */
@@ -94,7 +103,7 @@ main {
   margin-top: 15px;
 
   /* Typography */
-  color: #fff;
+  color: black;
 }
 
 .two-toned-footer-color {
@@ -103,7 +112,7 @@ main {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #001eff;
+  background-color: #FF9F44;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
@@ -118,7 +127,7 @@ main {
   /* Typography */
   font-size: 32px;
   font-weight: bold;
-  color: #001eff;
+  color: black;
 }
 
 #about-image {
@@ -156,10 +165,10 @@ main {
   font-weight: lighter;
 
   /* Typography */
-  color: #fff;
+  color: black;
 
   /* Visual */
-  background-color: #001eff;
+  background-color: #74ADD6;
   border: 0;
 }
 
@@ -179,7 +188,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: rgb(102, 102, 102);
+  background-color: #74ADD6;
 }
 
 /* END CONTACT FORM PAGE */
